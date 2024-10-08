@@ -1,0 +1,3 @@
+[workspace]
+members = ["src/ICBot_backend"]
+resolver = "2"
